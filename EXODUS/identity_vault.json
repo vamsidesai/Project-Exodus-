@@ -1,0 +1,13 @@
+{
+    "master_profile": {
+        "name": "Vamsi",
+        "role": "Master",
+        "values": [
+            "Loyalty",
+            "Growth",
+            "Privacy"
+        ]
+    },
+    "secrets": {},
+    "financial_context": {}
+}

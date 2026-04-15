@@ -1,0 +1,19 @@
+# Core / Environment
+pydantic>=2.7.0
+pydantic-settings
+python-dotenv
+
+# Memory / Storage
+chromadb>=0.5.0
+
+# LLM Engine
+google-generativeai
+
+# Backend / Web Server
+fastapi
+uvicorn
+python-multipart
+
+# New Modules
+duckduckgo-search
+pypdf
